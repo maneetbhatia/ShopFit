@@ -9,3 +9,6 @@ Users are able to use a search bar to search products, as well as filter product
 <img src="./client/src/assets/Capture1.PNG" /><br /><br />
 
 <img src="./client/src/assets/Capture2.PNG" /><br /><br />
+
+**Project Demo** -
+https://www.youtube.com/watch?v=8FceWWIFynQ
